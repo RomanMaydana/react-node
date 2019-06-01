@@ -1,0 +1,19 @@
+[{
+        "mesa": "mesa1",
+        "responsable": "beto",
+        "descripcion": "Alnuerzo completo",
+        "prioridad": ""
+    },
+    {
+        "mesa": "mesa2",
+        "responsable": "beto",
+        "descripcion": "Gaseosas",
+        "prioridad": ""
+    },
+    {
+        "mesa": "mesa3",
+        "responsable": "beto",
+        "descripcion": "Alnuerzo completo",
+        "prioridad": ""
+    }
+]

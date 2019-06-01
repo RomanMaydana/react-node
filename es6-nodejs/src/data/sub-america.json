@@ -1,0 +1,77 @@
+[
+  {
+    "nombre": "Argentina",
+    "capital": "Buenos Aires",
+    "poblacion": 43590400
+  },
+  {
+    "nombre": "Bolivia (Plurinational State of)",
+    "capital": "Sucre",
+    "poblacion": 10985059
+  },
+  {
+    "nombre": "Brazil",
+    "capital": "Brasília",
+    "poblacion": 206135893
+  },
+  {
+    "nombre": "Chile",
+    "capital": "Santiago",
+    "poblacion": 18191900
+  },
+  {
+    "nombre": "Colombia",
+    "capital": "Bogotá",
+    "poblacion": 48759958
+  },
+  {
+    "nombre": "Ecuador",
+    "capital": "Quito",
+    "poblacion": 16545799
+  },
+  {
+    "nombre": "Falkland Islands (Malvinas)",
+    "capital": "Stanley",
+    "poblacion": 2563
+  },
+  {
+    "nombre": "French Guiana",
+    "capital": "Cayenne",
+    "poblacion": 254541
+  },
+  {
+    "nombre": "Guyana",
+    "capital": "Georgetown",
+    "poblacion": 746900
+  },
+  {
+    "nombre": "Paraguay",
+    "capital": "Asunción",
+    "poblacion": 6854536
+  },
+  {
+    "nombre": "Peru",
+    "capital": "Lima",
+    "poblacion": 31488700
+  },
+  {
+    "nombre": "South Georgia and the South Sandwich Islands",
+    "capital": "King Edward Point",
+    "poblacion": 30
+  },
+  {
+    "nombre": "Suriname",
+    "capital": "Paramaribo",
+    "poblacion": 541638
+  },
+  {
+    "nombre": "Uruguay",
+    "capital": "Montevideo",
+    "poblacion": 3480222
+  },
+  {
+    "nombre": "Venezuela (Bolivarian Republic of)",
+    "capital": "Caracas",
+    "poblacion": 31028700
+  }
+]
